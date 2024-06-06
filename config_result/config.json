@@ -1,0 +1,10 @@
+[   
+    {
+        "host":"host",
+        "user":"user",
+        "password":"****",
+        "port":22,
+        "path":"/put/your/sftp/path",
+        "last_check":1717642025280
+    }
+]

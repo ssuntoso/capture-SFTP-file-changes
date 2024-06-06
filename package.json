@@ -1,0 +1,14 @@
+{
+    "name": "sftp-file-change-catcher",
+    "version": "1.0.0",
+    "description": "",
+    "main": "src/app.js",
+    "scripts": {
+        "start": "node src/app.js config_result/config.json config_result/list_of_file_change.json"
+    },
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "ssh2-sftp-client": "^10.0.3"
+    }
+}
